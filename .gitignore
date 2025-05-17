@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# 待定，用于保存测试cookie
+my-config.josn
